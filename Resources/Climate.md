@@ -3,6 +3,10 @@ layout: default
 title: "SIGPLAN and Climate Change"
 ---
 
+Anthropogenic climate change is an existential threat, one that urgently requires a massive effort at every level of society to combat. SIGPLAN and ACM as a whole contribute disproportionately to this threat by hosting conferences that are responsible for large amounts of carbon emissions, particularly as a result of participants' air travel.
+
+This page serves as an introduction to the SIGPLAN Climate Committee's work to study and address SIGPLAN's role in climate change.
+
 <!-- Needs an intro -->
 
 ## Useful Links:
@@ -39,16 +43,17 @@ Carbon](https://blog.sigplan.org/2019/07/17/acm-conferences-and-the-cost-of-carb
 ## SIGPLAN's ad hoc Climate Committee
 
 Air travel is a significant source of greenhouse gas emissions, which in
-turn are a significant contributor to climate change.  SIGPLAN hosts a
+turn are a significant contributor to climate change. SIGPLAN hosts a
 number of annual scientific meetings at various locations throughout the
 world.  While such meetings are important for furthering important research,
 we need to explore possible mitigations. Accordingly,
 SIGPLAN has formed an ad hoc committee to study the climate impact of
-conferences and possible steps that SIGPLAN might take in response. The
-committee chair is [Benjamin Pierce](http://www.cis.upenn.edu/~bcpierce/);
-its other members are [Jens Palsberg](http://web.cs.ucla.edu/~palsberg/) and
-[SIGPLAN EC](/ContactUs) members
-[Crista Lopes](http://www.ics.uci.edu/~lopes/) and
+conferences and possible steps that SIGPLAN might take in response.
+
+The
+committee chair is SIGPLAN Vice-Chair [Benjamin Pierce](http://www.cis.upenn.edu/~bcpierce/);
+its other members are SIGPLAN Chair [Jens Palsberg](http://web.cs.ucla.edu/~palsberg/), Past EC member
+[Crista Lopes](http://www.ics.uci.edu/~lopes/), and Past SIGPLAN Chair
 [Michael Hicks](http://www.cs.umd.edu/~mwh/). An
 [interim report](http://www.cis.upenn.edu/~bcpierce/papers/sigplan-climate-report.pdf)
 summarizes a number of ideas under consideration and some experiments
@@ -59,6 +64,10 @@ Anyone interested in participating in discussions about SIGPLAN and climate
 change is invited to join the
 [acm-climate](https://groups.google.com/forum/#!forum/acm-climate) email
 discussion group.
+
+## Current Projects
+
+
 
 ## Carbon Offsets
 
