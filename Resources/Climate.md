@@ -3,7 +3,7 @@ layout: default
 title: "SIGPLAN and Climate Change"
 ---
 
-Anthropogenic climate change is an existential threat, one that urgently requires a massive effort at every level of society to combat. SIGPLAN and ACM as a whole contribute disproportionately to this threat by hosting conferences that are responsible for large amounts of carbon emissions, particularly as a result of participants' air travel.
+Anthropogenic climate change is an existential threat, one that urgently requires a massive effort at every level of society to combat. SIGPLAN contributes disproportionately to this threat in hosting conferences that are responsible for large amounts of carbon emissions, particularly as a result of participants' air travel.
 
 This page serves as an introduction to the SIGPLAN Climate Committee's work to study and address SIGPLAN's role in climate change.
 
